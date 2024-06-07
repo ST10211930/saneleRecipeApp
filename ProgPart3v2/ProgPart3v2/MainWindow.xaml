@@ -1,0 +1,129 @@
+﻿<Window x:Class="ProgPart3v2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProgPart3v2"
+        mc:Ignorable="d"
+        Title="SplashScreen" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Background="Black">
+            <!--Image Background-->
+            <Grid x:Name="BG">
+                <Grid.Background>
+                    <ImageBrush x:Name="img_bg"
+                        ImageSource="/Icons/bg spices.jpg" 
+                        Stretch="Fill"/>
+
+                </Grid.Background>
+            </Grid>
+        </Grid>
+
+        <!--Navigation panel settings-->
+        <Grid x:Name="Nav_panel"
+       HorizontalAlignment="Left"
+       Width="300"
+       Background="Transparent">
+
+            <!--Stackpanel-->
+            <StackPanel x:Name="st_pnl">
+                <Grid Height="110">
+                    <TextBlock Grid.Row="1"
+                        Grid.Column="0"
+                        Text="Sanele's Recipe App"
+                        Foreground="White"
+                        HorizontalAlignment="Center"
+                        Background="Transparent"
+                        VerticalAlignment="Center"
+                        FontWeight="Bold"
+                        FontSize="28" Margin="18,20,18,53"/>
+
+
+                </Grid>
+
+                <!--ListView Info-->
+                <ListView x:Name="ListView"
+                   Background="Transparent"
+                   BorderBrush="Transparent"
+                   ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+
+                    <ListViewItem x:Name="ListViewItem"
+                                  Selected="ListViewItem_Selected"                                                                   
+                                 HorizontalAlignment="Left" >
+
+                        <StackPanel Orientation="Horizontal"
+                                Width="220">
+
+                            <Image Source="/Icons/icon add.png" 
+                     Stretch="Uniform" Height="52" Width="45"/>
+
+                            <TextBlock Text="New Recipe"
+                                TextAlignment="Left"
+                                Margin="10"
+                                FontSize="23"
+                                Foreground="White"
+                                FontWeight="Black" Height="34" Width="140"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+
+                <!--ListView Home-->
+                <ListView x:Name="ListView2"
+                Background="Transparent"
+                BorderBrush="Transparent"
+                ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+
+                    <ListViewItem x:Name="ListViewItem2"
+                                  Selected="ListViewItem2_Selected"                  
+                                  HorizontalAlignment="Left" >
+
+                            <StackPanel Orientation="Horizontal"
+                                        Width="220">
+
+                    <Image Source="/Icons/icon open-book.png" 
+                     Stretch="Uniform" Height="42" Width="45"/>
+
+                            <TextBlock Text="Recipe Book"
+                                TextAlignment="Left"
+                                Margin="10"
+                                FontSize="23"
+                                Foreground="White"
+                                FontWeight="Black" Height="34" Width="140"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+
+                <!--ListView Exit-->
+                <ListView x:Name="ListView3"
+                Background="Transparent"
+                BorderBrush="Transparent"
+                ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+
+                    <ListViewItem x:Name="ListViewItem3"
+                                  HorizontalAlignment="Left" 
+                                  Selected="ListViewItem3_Selected">
+
+                        <StackPanel Orientation="Horizontal"
+                 Width="220">
+
+                            <Image Source="/Icons/icon exit.png" 
+                     Stretch="Uniform" Height="42" Width="45"/>
+
+                            <TextBlock Text="Exit"
+                 TextAlignment="Left"
+                 Margin="10"
+                 FontSize="23"
+                 Foreground="White"
+                 FontWeight="Black" Height="34" Width="50"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Window>
