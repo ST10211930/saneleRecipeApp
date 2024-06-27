@@ -13,3 +13,18 @@ C:\Users\caleb\OneDrive\Documents\Visual Studio Projects\ProgPart3v2\ProgPart3v2
 C:\Users\caleb\OneDrive\Documents\Visual Studio Projects\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.csproj.CoreCompileInputs.cache
 C:\Users\caleb\OneDrive\Documents\Visual Studio Projects\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.exe
 C:\Users\caleb\OneDrive\Documents\Visual Studio Projects\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.pdb
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\bin\Debug\ProgPart3v2.exe.config
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\bin\Debug\ProgPart3v2.exe
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\bin\Debug\ProgPart3v2.pdb
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\MainWindow.g.cs
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\App.g.cs
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2_MarkupCompile.cache
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2_MarkupCompile.lref
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\MainWindow.baml
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.g.resources
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.Properties.Resources.resources
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.csproj.GenerateResource.cache
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.exe
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.pdb

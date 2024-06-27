@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\",
+  "WorkspaceRootPath": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|c:\\users\\caleb\\onedrive\\documents\\visual studio projects\\progpart3v2\\progpart3v2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\progpart3v2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\ingredientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\ingredientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|c:\\users\\caleb\\onedrive\\desktop\\semester 3 2024\\prog6221\\repo for sanele\u0027s recipe app\\sanelerecipeapp\\progpart3v2\\progpart3v2\\stepdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\stepdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\newrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\newrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\progpart3v2\\recipename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8913ED-BF05-4E70-A4A5-1853E40FA6D0}|ProgPart3v2\\ProgPart3v2.csproj|solutionrelative:progpart3v2\\recipename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +38,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\NewRecipe.xaml",
+              "RelativeDocumentMoniker": "ProgPart3v2\\NewRecipe.xaml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\NewRecipe.xaml",
+              "RelativeToolTip": "ProgPart3v2\\NewRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T14:24:46.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\Recipe.cs",
+              "RelativeDocumentMoniker": "ProgPart3v2\\Recipe.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\Recipe.cs",
+              "RelativeToolTip": "ProgPart3v2\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:15:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeName.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\RecipeName.cs",
+              "RelativeDocumentMoniker": "ProgPart3v2\\RecipeName.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\RecipeName.cs",
+              "RelativeToolTip": "ProgPart3v2\\RecipeName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:09:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StepDetails.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\StepDetails.cs",
+              "RelativeDocumentMoniker": "ProgPart3v2\\StepDetails.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\StepDetails.cs",
+              "RelativeToolTip": "ProgPart3v2\\StepDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:07:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredientDetails.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\IngredientDetails.cs",
+              "RelativeDocumentMoniker": "ProgPart3v2\\IngredientDetails.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\IngredientDetails.cs",
+              "RelativeToolTip": "ProgPart3v2\\IngredientDetails.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:06:14.271Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProgPart3v2\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml",
               "RelativeToolTip": "ProgPart3v2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-07T12:09:43.907Z",
@@ -36,11 +120,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProgPart3v2\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documents\\Visual Studio Projects\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Desktop\\Semester 3 2024\\PROG6221\\Repo for Sanele\u0027s Recipe App\\saneleRecipeApp\\ProgPart3v2\\ProgPart3v2\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProgPart3v2\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADgvyoAAAAxAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvysAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T12:09:42.893Z",
               "EditorCaption": ""
