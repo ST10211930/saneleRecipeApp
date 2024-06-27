@@ -28,3 +28,5 @@ C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recip
 C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.csproj.CoreCompileInputs.cache
 C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.exe
 C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\ProgPart3v2.pdb
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\NewRecipe.g.cs
+C:\Users\caleb\OneDrive\Desktop\Semester 3 2024\PROG6221\Repo for Sanele's Recipe App\saneleRecipeApp\ProgPart3v2\ProgPart3v2\obj\Debug\NewRecipe.baml

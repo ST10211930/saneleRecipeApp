@@ -44,11 +44,11 @@
 
                 </Grid>
 
-                <!--ListView Info-->
+                <!--ListView Recipe Book-->
                 <ListView x:Name="ListView"
                    Background="Transparent"
                    BorderBrush="Transparent"
-                   ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                   ScrollViewer.HorizontalScrollBarVisibility="Disabled" >
 
                     <ListViewItem x:Name="ListViewItem"
                                   Selected="ListViewItem_Selected"                                                                   
@@ -57,10 +57,10 @@
                         <StackPanel Orientation="Horizontal"
                                 Width="220">
 
-                            <Image Source="/Icons/icon add.png" 
-                     Stretch="Uniform" Height="52" Width="45"/>
+                            <Image Source="/Icons/icon open-book.png" 
+                                Stretch="Uniform" Height="42" Width="45"/>
 
-                            <TextBlock Text="New Recipe"
+                            <TextBlock Text="Recipe Book"
                                 TextAlignment="Left"
                                 Margin="10"
                                 FontSize="23"
@@ -70,7 +70,7 @@
                     </ListViewItem>
                 </ListView>
 
-                <!--ListView Home-->
+                <!--ListView Recipe Exit-->
                 <ListView x:Name="ListView2"
                 Background="Transparent"
                 BorderBrush="Transparent"
@@ -83,10 +83,10 @@
                             <StackPanel Orientation="Horizontal"
                                         Width="220">
 
-                    <Image Source="/Icons/icon open-book.png" 
-                     Stretch="Uniform" Height="42" Width="45"/>
+                            <Image Source="/Icons/icon exit.png" 
+Stretch="Uniform" Height="42" Width="45"/>
 
-                            <TextBlock Text="Recipe Book"
+                            <TextBlock Text="Exit"
                                 TextAlignment="Left"
                                 Margin="10"
                                 FontSize="23"
@@ -96,31 +96,6 @@
                     </ListViewItem>
                 </ListView>
 
-                <!--ListView Exit-->
-                <ListView x:Name="ListView3"
-                Background="Transparent"
-                BorderBrush="Transparent"
-                ScrollViewer.HorizontalScrollBarVisibility="Disabled">
-
-                    <ListViewItem x:Name="ListViewItem3"
-                                  HorizontalAlignment="Left" 
-                                  Selected="ListViewItem3_Selected">
-
-                        <StackPanel Orientation="Horizontal"
-                 Width="220">
-
-                            <Image Source="/Icons/icon exit.png" 
-                     Stretch="Uniform" Height="42" Width="45"/>
-
-                            <TextBlock Text="Exit"
-                 TextAlignment="Left"
-                 Margin="10"
-                 FontSize="23"
-                 Foreground="White"
-                 FontWeight="Black" Height="34" Width="50"/>
-                        </StackPanel>
-                    </ListViewItem>
-                </ListView>
             </StackPanel>
 
         </Grid>

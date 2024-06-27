@@ -25,23 +25,27 @@ namespace ProgPart3v2
             InitializeComponent();
         }
 
-        //new recipe button
+       
         private void ListViewItem_Selected(object sender, RoutedEventArgs e)
         {
+            NewRecipe newRec = new NewRecipe();
+            this.Close();
+            newRec.Show();
 
-        }//end of new recipe button method 
-
-        //recipe book button
-        private void ListViewItem2_Selected(object sender, RoutedEventArgs e)
-        {
-
-        }//end of recipe book button method
+        }
 
         //exit button
-        private void ListViewItem3_Selected(object sender, RoutedEventArgs e)
+        private void ListViewItem2_Selected(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("App wil now close");
             this.Close();
+
         }//end of exit button method
+
+        
+        private void ListViewItem3_Selected(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }

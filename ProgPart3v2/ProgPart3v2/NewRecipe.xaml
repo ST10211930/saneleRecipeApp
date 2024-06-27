@@ -5,11 +5,132 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProgPart3v2"
         mc:Ignorable="d"
-        Title="NewRecipe" Height="450" Width="800"
-        ResizeMode="NoResize"
+        Title="NewRecipe" Height="648" Width="1284"
+        
         WindowStyle="None"
         WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Grid Background="RoyalBlue" HorizontalAlignment="Left" Height="131" Margin="10,10,0,0" VerticalAlignment="Top" Width="1254">
+
+            <Label x:Name="lblNumIngreds" Content="Please Enter The Number of Ingredients:" HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top" Width="228"/>
+
+            <TextBox x:Name="textboxNumIngreds" HorizontalAlignment="Left" Height="23" Margin="243,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192"/>
+
+            <Button x:Name="btnEnterIngredsandSteps" Content="Enter Ingredients and Steps" HorizontalAlignment="Left" Margin="482,38,0,0" VerticalAlignment="Top" Width="159" Height="41" Click="btnEnterIngredsandSteps_Click" />
+
+            <Label Content="Please Enter the Number of Steps" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top"/>
+
+            <TextBox x:Name="textBoxnumSteps" HorizontalAlignment="Left" Height="23" Margin="243,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192"/>
+
+            <Label Content="Please Enter the Name of the Recipe" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="228"/>
+
+            <TextBox x:Name="textboxRecipeName" HorizontalAlignment="Left" Height="23" Margin="243,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192"/>
+
+            <Grid HorizontalAlignment="Left" Height="108" Margin="906,23,0,0" VerticalAlignment="Top" Width="348">
+
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="5*"/>
+
+                    <ColumnDefinition Width="24*"/>
+
+                </Grid.ColumnDefinitions>
+
+                <Label Content="Ingredient" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="106" Grid.ColumnSpan="2"/>
+
+                <Label Content="Food Group" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="106" Grid.ColumnSpan="2"/>
+
+                <Label Content="Maximum Calories" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="115" Grid.ColumnSpan="2"/>
+
+                <TextBox x:Name="textboxMaxCal" HorizontalAlignment="Left" Height="23" Margin="84,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" Grid.Column="1"/>
+
+                <Button x:Name="SearchIngred" IsEnabled="False" Content="Search" HorizontalAlignment="Left" Margin="208,13,0,0" VerticalAlignment="Top" Width="70" Height="23" Grid.Column="1" Click="SearchIngred_Click" />
+
+                <TextBox x:Name="textboxsearchIngred" HorizontalAlignment="Left" Height="23" Margin="84,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" Grid.Column="1"/>
+
+                <Button x:Name="SearchFoodGroup" IsEnabled="False" Content="Search" HorizontalAlignment="Left" Margin="208,44,0,0" VerticalAlignment="Top" Width="70" Height="23" Grid.Column="1" Click="SearchFoodGroup_Click" />
+
+                <Button x:Name="SearchMaxCal" IsEnabled="False" Content="Search" HorizontalAlignment="Left" Margin="208,76,0,0" VerticalAlignment="Top" Width="70" Height="23" Grid.Column="1" Click="SearchMaxCal_Click" />
+
+                <ComboBox x:Name="comboboxsearchFoodGroup" HorizontalAlignment="Left" Margin="84,44,0,0" VerticalAlignment="Top" Width="119" Grid.Column="1">
+
+                    <ComboBoxItem>Vegetables</ComboBoxItem>
+
+                    <ComboBoxItem>Fruits</ComboBoxItem>
+
+                    <ComboBoxItem>Grains</ComboBoxItem>
+
+                    <ComboBoxItem>Protein Foods</ComboBoxItem>
+
+                    <ComboBoxItem>Dairy</ComboBoxItem>
+
+                    <ComboBoxItem>Oils and Solid Fats</ComboBoxItem>
+
+                    <ComboBoxItem>Added Sugars</ComboBoxItem>
+
+                    <ComboBoxItem>Beverages</ComboBoxItem>
+
+                </ComboBox>
+
+            </Grid>
+
+            <Label Content="FILTERS" FontSize="15" HorizontalAlignment="Left" Margin="919,10,0,0" VerticalAlignment="Top" Width="92"/>
+
+            <Button Background="LightPink" Content="Main Menu" HorizontalAlignment="Left" Margin="1179,0,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" />
+
+        </Grid>
+
+        <StackPanel HorizontalAlignment="Left" Height="367" Margin="10,146,0,0" VerticalAlignment="Top" Width="922">
+
+            <ScrollViewer x:Name="scrollDisplay" Height="366" Background="LightGray">
+
+                <StackPanel x:Name="pnlDisplay" Height="328" Width="1233"/>
+
+            </ScrollViewer>
+
+        </StackPanel>
+
+        <Grid Background="RoyalBlue" HorizontalAlignment="Left" Height="89" Margin="10,518,0,0" VerticalAlignment="Top" Width="1256">
+
+            <Button x:Name="btnDisplayRecipe" IsEnabled="False" Content="Display Recipe" HorizontalAlignment="Left" Margin="28,35,0,0" VerticalAlignment="Top" Width="115" Click="btnDisplayRecipe_Click" />
+
+            <Button x:Name="btnDisplayAllNames" IsEnabled="False" Content="Display Recipe Names" HorizontalAlignment="Left" Margin="148,35,0,0" VerticalAlignment="Top" Width="126" Click="btnDisplayAllNames_Click"/>
+
+            <Button x:Name="btnScale" IsEnabled="False" Content="Scale" HorizontalAlignment="Left" Margin="279,35,0,0" VerticalAlignment="Top" Width="126" Click="btnScale_Click" />
+
+            <Button x:Name="btnReset" IsEnabled="False" Content="Reset" HorizontalAlignment="Left" Margin="410,35,0,0" VerticalAlignment="Top" Width="126" Click="btnReset_Click" />
+
+            <Button x:Name="btnDelete" IsEnabled="False" Content="Delete" HorizontalAlignment="Left" Margin="541,35,0,0" VerticalAlignment="Top" Width="126" Click="btnDelete_Click" />
+
+            <Button x:Name="btnsaveanddisplay" Content="SAVE AND DISPLAY" IsEnabled="False" HorizontalAlignment="Left" Margin="719,-480,0,0" VerticalAlignment="Top" Width="144" Height="68" Click="btnsaveanddisplay_Click" />
+
+            <Button x:Name="btnDisplayRecCont" Visibility="Hidden" Content="Display" HorizontalAlignment="Left" Margin="1120,10,0,0" VerticalAlignment="Top" Width="126" Height="69" Click="btnDisplayRecCont_Click"/>
+
+            <Grid x:Name="gridRecipeNumber" Visibility="Hidden" HorizontalAlignment="Left" Height="40" Margin="740,0,0,0" VerticalAlignment="Top" Width="349">
+
+                <Label Content="Please Enter the Recipe Number" HorizontalAlignment="Left" Margin="-4,7,0,0" VerticalAlignment="Top"/>
+
+                <TextBox x:Name="textboxDisplayrecChoice" Visibility="Visible" HorizontalAlignment="Left" Height="23" Margin="181,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+
+            </Grid>
+
+            <Grid x:Name="gridScaleValue" Visibility="Hidden" HorizontalAlignment="Left" Height="44" Margin="740,45,0,0" VerticalAlignment="Top" Width="349">
+
+                <TextBox x:Name="textboxScaleNum" HorizontalAlignment="Left" Height="23" Margin="180,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+
+                <Label Content="Please Enter the Scale Value" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="157"/>
+
+            </Grid>
+
+            <Button x:Name="btnScaleNext" Visibility="Hidden" Content="Scale" HorizontalAlignment="Left" Margin="1120,10,0,0" VerticalAlignment="Top" Width="126" Height="69" Click="btnScaleNext_Click"/>
+
+            <Button x:Name="btnDeleteNext" Visibility="Hidden" Content="Delete" HorizontalAlignment="Left" Margin="1120,10,0,0" VerticalAlignment="Top" Width="126" Height="69" Click="btnDeleteNext_Click"/>
+
+            <Button x:Name="btnResetNext" Visibility="Hidden" Content="Reset" HorizontalAlignment="Left" Margin="1120,10,0,0" VerticalAlignment="Top" Width="126" Height="69" Click="btnResetNext_Click"/>
+
+        </Grid>
+
+        <TextBlock x:Name="textBlockDisplay" Background="FloralWhite" TextWrapping="Wrap" Margin="937,146,12,104"/>
+
     </Grid>
 </Window>

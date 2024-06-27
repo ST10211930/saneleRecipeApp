@@ -21,6 +21,8 @@ namespace ProgPart3v2
             this.textboxUnit = textboxUnit;
             this.textboxCalories = textboxCalories;
             this.comboFoodGroup = comboFoodGroup;
+            this.OriginalQuantity = textboxQuantity.Text;
+            this.OriginalCalories = textboxCalories.Text;
         }
 
         //properties 
@@ -29,5 +31,8 @@ namespace ProgPart3v2
         public TextBox textboxUnit { get; set; }
         public TextBox textboxCalories { get; set; }
         public ComboBox comboFoodGroup { get; set; }
+        public string OriginalQuantity { get; set; }
+        public string OriginalCalories { get; set; }
     }
 }
+
